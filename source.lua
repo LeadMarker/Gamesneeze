@@ -1,4 +1,9 @@
 --[[
+    To Do:
+
+    [+] Notifications
+    [+] Finish Documentation (Everything)
+    
     @gs.cc
 ]]
 if not LPH_OBFUSCATED then
